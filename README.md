@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-histoire-damour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Une Histoire D'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-histoire-damour/) |
+| **Get License** | [License this song: Une Histoire D'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-histoire-damour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la nuit parisienne, ton regard me fascine
+> Sous les néons brillants, baby, tu m'assassines
+> T'es le feu dans mon cœur, une romance de minuit
+> Viens, on danse jusqu'à l'aube, on oublie nos ennuis
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
